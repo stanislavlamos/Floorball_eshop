@@ -1,0 +1,55 @@
+[
+    {
+        "firstName": "Stanislav",
+        "lastName": "Lamoš",
+        "birthDate": "",
+        "wishlist": [],
+        "email": "admin@admin.admin",
+        "password": "$2y$10$HL45PQ3Eduw5mc8SvwSrTO8ox9bU4GBEHNxAZZUBRL2nkn46vCdQm",
+        "isAdmin": true,
+        "isApproved": true
+    },
+    {
+        "firstName": "test",
+        "lastName": "",
+        "birthDate": "2022-12-11",
+        "wishlist": [],
+        "email": "test@gmail.com",
+        "password": "$2y$10$R6tsIaKyuGT2N5TNIl4CS.jBy5LsjFYBZD9j5YjfkjtbAqMIiPKCi",
+        "isAdmin": false,
+        "isApproved": true
+    },
+    {
+        "firstName": "test",
+        "lastName": "",
+        "birthDate": "2022-12-11",
+        "wishlist": [],
+        "email": "test2@gmail.com",
+        "password": "$2y$10$R6tsIaKyuGT2N5TNIl4CS.jBy5LsjFYBZD9j5YjfkjtbAqMIiPKCi",
+        "isAdmin": false,
+        "isApproved": true
+    },
+    {
+        "firstName": "testuser1",
+        "lastName": "",
+        "birthDate": "",
+        "wishlist": [],
+        "email": "testuser@gmail.com",
+        "password": "$2y$10$7.qKr1CIa\/NKw4trZQSEYeHCIw9b9.\/X07oW3tZnrgEM1QEVEW.ji",
+        "isAdmin": false,
+        "isApproved": true
+    },
+    {
+        "firstName": "Testovaci",
+        "lastName": "uzivatel",
+        "birthDate": "",
+        "wishlist": [
+            24,
+            0
+        ],
+        "email": "neco@gmail.com",
+        "password": "$2y$10$ThcUbfD2QOvMEMY48a7XWOjtMRfnryHzAuJBQaQu92jXADR1XhN9u",
+        "isAdmin": false,
+        "isApproved": true
+    }
+]

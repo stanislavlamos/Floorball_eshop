@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "author_email": "neco@gmail.com",
+        "product_id": 24,
+        "comment_header": "Moje hodnocení",
+        "comment_text": "Nic moc teda..........:(",
+        "reply_header": "",
+        "reply_text": ""
+    },
+    {
+        "id": 2,
+        "author_email": "testuser@gmail.com",
+        "product_id": 24,
+        "comment_header": "Dotaz na barvy",
+        "comment_text": "Kdy budou další barvy?",
+        "reply_header": "Odpoved na dotaz ohledne barev",
+        "reply_text": "Dobry den, dalsi barvy ocekavame behem leta"
+    },
+    {
+        "id": 0,
+        "author_email": "testuser@gmail.com",
+        "product_id": 24,
+        "comment_header": "Recenze na produkt",
+        "comment_text": "Pěkný produkt, jsem spokojen",
+        "reply_header": "Odpoved na kladnou recenzi",
+        "reply_text": "Dobry den, mockrat dekujeme a vazima si vasi recenze :D"
+    },
+    {
+        "id": 3,
+        "author_email": "neco@gmail.com",
+        "product_id": 24,
+        "comment_header": "Dotaz na material",
+        "comment_text": "Z jakeho je to materialu?",
+        "reply_header": "Material - odpoved",
+        "reply_text": "Dobry den, je to cisty plast"
+    }
+]
